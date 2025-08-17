@@ -8,7 +8,7 @@ const products = [
     price: "R$ 150,00",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Kit%204%20sousplat%20com%20cor%20personalizada%20R%24150%20%28%2Btrilha%20de%20mesa%20R%24250%29.jpg-zMnPRPJ75MjKfdulxhh9U31Pzk0HKf.jpeg",
-    description: "Kit com 4 sousplats de crochê com cor personalizada. Trilha de mesa adicional por R$ 250,00.",
+    description: "Kit com 4 sousplats de crochê com cor personalizada. Trilha de mesa adicional por R$ 100,00.",
   },
   {
     id: 2,
