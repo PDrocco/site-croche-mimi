@@ -5,7 +5,7 @@ export function Header() {
       <div className="container mx-auto px-4 py-4">
         <nav className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <Image src="/images/logo_crochet_mimi.jpg" alt="Logo Crochet da Mimi" width={32} height={32} />
+            <Image src="/images/logo_crochet_mimi.jpg" alt="Logo Crochet da Mimi" width={55} height={55} />
             <span className="text-xl font-serif text-stone-700">Crochet da Mimi</span>
           </div>
 
