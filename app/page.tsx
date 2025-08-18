@@ -20,11 +20,11 @@ const products = [
   },
   {
     id: 3,
-    title: "Sousplat com Trilha de Mesa",
+    title: "Sousplat com Trilho de Mesa",
     price: "R$ 250,00",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Com%20trilha%20de%20mesa.jpg-6qxywdNcimdlDGGu3P0c67VvJoiRKo.jpeg",
-    description: "Conjunto completo de sousplats verdes com trilha de mesa em crochê artesanal.",
+    description: "Conjunto completo de sousplats verdes com trilho de mesa em crochê artesanal.",
   },
   {
     id: 4,
