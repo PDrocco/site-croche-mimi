@@ -50,6 +50,27 @@ const products = [
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Kit%20de%20caf%C3%A9%20com%204%20pe%C3%A7as%2050%20reais-qQamrOMHoSpRRIHEmFMwnCZhOKmCbK.png",
     description: "Kit com 4 porta-copos em crochê branco com padrão rendado delicado, perfeito para o café da manhã.",
   },
+  {
+    id: 7,
+    title: "Lírios do Campo",
+    price: "R$ 30,00",
+    image:"/images/chaveiro-lirios.jpg",
+    description: "Chaveiros ou decorações de lírios do campo.",
+  },
+  {
+    id: 8,
+    title: "Trilho de Mesa - Moderno",
+    price: "R$ 200,00",
+    image:"/images/trilho-de-mesa-moderno.jpg",
+    description: "Trilho de mesa moderno com cores personalizáveis",
+  },
+  {
+    id: 9,
+    title: "Trilho de Mesa - Flocos de Neve",
+    price: "R$ 200,00",
+    image:"/images/trilho-de-mesa-flocos-neve.jpg",
+    description: "Trilho de mesa em formato de flocos de neve, perfeito para festas de fim de ano!",
+  },      
 ]
 
 export default function Home() {
